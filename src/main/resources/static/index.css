@@ -1,0 +1,56 @@
+
+body{
+    background-color: black;
+}
+
+.main-container{
+    width: 1100px;
+    height: 700px;
+    margin: 0 auto;
+    background-color: whitesmoke;
+    margin-top: 50px;
+}
+.left-side{
+width: 200px;
+margin-right: 175px;
+}
+
+.right-side{
+    width:200px;
+}
+.align-content-center{
+    margin-top: 25px;
+}
+h1{
+    text-align: center;
+}
+
+.sub-container{
+    display: flex;
+    justify-content: space-around;
+    background-image: url("https://www.crosslinkcares.org/wp-content/uploads/2021/04/fcc-tile.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 450px;
+    background-color: whitesmoke;
+
+}
+
+.sub-note{
+    text-align: center;
+    background-color: whitesmoke;
+}
+a {
+    text-align: center;
+    text-decoration: none;
+    color: black;
+}
+
+.red-font{
+    color: darkred;
+    font-size: small;
+}
+
+#margin-top{
+    margin-top: 15px;
+}
